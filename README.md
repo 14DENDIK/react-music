@@ -18,14 +18,14 @@ Works pretty fast and good, BUT had some problems with client side routing of Re
 Didn't want to spend too much time for learning front side...
 ## About Django side
 Used:
-  *Django rest framework
-  *Postgresql
-  *Django rest framework simple jwt(for token auth)
+* Django rest framework
+* Postgresql
+* Django rest framework simple jwt(for token auth)
 ## About React side
 Didn't use npx create-react-app
 Used:
-  *React Routing
-  *Hooks
-  *Context API(Don't know maybe removed)
+* React Routing
+* Hooks
+* Context API(Don't know maybe removed)
 ## Screen
 ![Screen](https://github.com/14DENDIK/react-music/blob/master/media/re.png)
